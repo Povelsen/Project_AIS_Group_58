@@ -130,6 +130,24 @@ python plot_cartopy_example.py
     *   **Red**: Predicted future trajectory.
     *   **Ports**: Locations of ports (if enabled).
 
+### Mapbox Satellite Visualization
+For an interactive satellite map visualization, use `sattelite_visualization.py`.
+
+**Prerequisite: Mapbox Token**
+This script requires a Mapbox access token. You can get one from [mapbox.com](https://account.mapbox.com/).
+Provide the token in one of two ways:
+1.  **Environment Variable**: Set `MAPBOX_TOKEN` in your shell.
+    ```bash
+    export MAPBOX_TOKEN="your_token_here"
+    ```
+2.  **Token File**: Create a file named `.mapbox_token` in the project root directory and paste your token inside it.
+
+**Run the visualization:**
+```bash
+python sattelite_visualization.py
+```
+This will generate and open `map_vis.html` in your browser.
+
 ## Project Structure
 
 *   `download_ais_to_folder.py`: Data downloader.
@@ -138,4 +156,5 @@ python plot_cartopy_example.py
 *   `trainers.py`: Training loop and sampling logic.
 *   `models.py`: Transformer model architecture.
 *   `datasets.py`: PyTorch Dataset implementations.
-*   `plot_cartopy_example.py`: Visualization script.
+*   `plot_cartopy_example.py`: Static map visualization using Cartopy.
+*   `sattelite_visualization.py`: Interactive satellite map visualization using Folium and Mapbox.

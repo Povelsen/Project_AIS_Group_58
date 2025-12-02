@@ -7,7 +7,33 @@ import os
 from config_files.config_file_with_FLAGS import Config
 cf = Config()
 
-MAPBOX_TOKEN = "pk.eyJ1IjoiaXR1cmFzaSIsImEiOiJjbWllYmQ1bHkwMHkyM2ZyMWVvbHJ1a2EzIn0.QfeitLotjtKoaGsuCMDV-w"
+def get_mapbox_token():
+    # 1. Check environment variable
+    token = os.environ.get("MAPBOX_TOKEN")
+    if token:
+        return token
+    
+    # 2. Check local file
+    token_file = os.path.join(os.path.dirname(os.path.abspath(__file__)), ".mapbox_token")
+    if os.path.exists(token_file):
+        with open(token_file, "r") as f:
+            token = f.read().strip()
+            if token:
+                return token
+                
+    # 3. Raise error if not found
+    raise ValueError(
+        "Mapbox token not found! Please do one of the following:\n"
+        "1. Set the MAPBOX_TOKEN environment variable.\n"
+        "2. Create a file named '.mapbox_token' in the project root containing your token.\n"
+        "You can get a token from https://account.mapbox.com/"
+    )
+
+try:
+    MAPBOX_TOKEN = get_mapbox_token()
+except ValueError as e:
+    print(f"\nERROR: {e}\n")
+    exit(1)
 
 TRAJ_PATH = os.path.join(cf.savedir, "trajectories.npy")
 SAVE_HTML = os.path.join(cf.savedir, "map_vis.html")
