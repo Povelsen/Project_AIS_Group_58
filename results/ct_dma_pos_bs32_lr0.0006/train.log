@@ -1,0 +1,13 @@
+2025-11-23 12:51:27,253 - models - number of parameters: 5.742055e+07
+2025-11-23 12:52:00,833 - root - Training, epoch 1, loss 9.26685, lr 5.993205e-04.
+2025-11-23 12:52:02,728 - root - Valid, epoch 1, loss 4.46074.
+2025-11-23 12:52:02,729 - root - Best epoch: 001, saving model to ./results/ct_dma_pos_bs32_lr0.0006/model.pt
+2025-11-23 12:52:36,306 - root - Training, epoch 2, loss 2.93637, lr 5.966600e-04.
+2025-11-23 12:52:37,942 - root - Valid, epoch 2, loss 2.42863.
+2025-11-23 12:52:37,943 - root - Best epoch: 002, saving model to ./results/ct_dma_pos_bs32_lr0.0006/model.pt
+2025-11-23 12:53:10,934 - root - Training, epoch 3, loss 1.88021, lr 5.920037e-04.
+2025-11-23 12:53:12,559 - root - Valid, epoch 3, loss 1.91267.
+2025-11-23 12:53:12,560 - root - Best epoch: 003, saving model to ./results/ct_dma_pos_bs32_lr0.0006/model.pt
+2025-11-23 12:53:45,256 - root - Training, epoch 4, loss 1.51604, lr 5.853830e-04.
+2025-11-23 12:53:46,882 - root - Valid, epoch 4, loss 1.73320.
+2025-11-23 12:53:46,883 - root - Best epoch: 004, saving model to ./results/ct_dma_pos_bs32_lr0.0006/model.pt

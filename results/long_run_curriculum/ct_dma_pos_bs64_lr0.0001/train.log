@@ -1,0 +1,21 @@
+2025-11-30 15:46:20,960 - models - number of parameters: 1.169888e+08
+2025-11-30 15:47:08,359 - root - Training, epoch 1, loss 11.15258, lr 1.000000e-05.
+2025-11-30 15:47:16,439 - root - Valid, epoch 1, loss 9.43225.
+2025-11-30 15:47:16,440 - root - Best epoch: 001, saving model to ./results/long_run_curriculum/ct_dma_pos_bs64_lr0.0001/model.pt
+2025-11-30 15:47:21,023 - root - Validation loss improved! New best: 9.43225
+2025-11-30 15:48:06,978 - root - Training, epoch 2, loss 7.28461, lr 1.097180e-05.
+2025-11-30 15:48:15,147 - root - Valid, epoch 2, loss 12.43964.
+2025-11-30 15:48:15,148 - root - No improvement for 1/40 epochs
+2025-11-30 15:49:00,119 - root - Training, epoch 3, loss 6.39873, lr 5.172807e-05.
+2025-11-30 15:49:08,338 - root - Valid, epoch 3, loss 12.86924.
+2025-11-30 15:49:08,339 - root - No improvement for 2/40 epochs
+2025-11-30 15:49:53,369 - root - Training, epoch 4, loss 6.15146, lr 9.109402e-05.
+2025-11-30 15:50:01,541 - root - Valid, epoch 4, loss 13.06268.
+2025-11-30 15:50:01,541 - root - No improvement for 3/40 epochs
+2025-11-30 15:50:46,607 - root - Training, epoch 5, loss 6.02938, lr 9.739778e-05.
+2025-11-30 15:50:54,845 - root - Valid, epoch 5, loss 13.15139.
+2025-11-30 15:50:54,846 - root - No improvement for 4/40 epochs
+2025-11-30 15:51:39,877 - root - Training, epoch 6, loss 5.96204, lr 6.556766e-05.
+2025-11-30 15:51:48,089 - root - Valid, epoch 6, loss 13.27387.
+2025-11-30 15:51:48,090 - root - No improvement for 5/40 epochs
+2025-11-30 15:52:33,230 - root - Training, epoch 7, loss 5.91719, lr 2.121258e-05.

@@ -1,0 +1,81 @@
+2025-11-24 14:01:48,468 - models - number of parameters: 5.742055e+07
+2025-11-24 14:02:25,437 - root - Training, epoch 1, loss 9.26685, lr 5.993205e-04.
+2025-11-24 14:02:27,409 - root - Valid, epoch 1, loss 4.46074.
+2025-11-24 14:02:27,410 - root - Best epoch: 001, saving model to ./results/early_stop/ct_dma_pos_bs32_lr0.0006/model.pt
+2025-11-24 14:02:27,989 - root - ✓ Validation loss improved! New best: 4.46074
+2025-11-24 14:03:04,591 - root - Training, epoch 2, loss 2.93637, lr 5.966600e-04.
+2025-11-24 14:03:06,229 - root - Valid, epoch 2, loss 2.42863.
+2025-11-24 14:03:06,230 - root - Best epoch: 002, saving model to ./results/early_stop/ct_dma_pos_bs32_lr0.0006/model.pt
+2025-11-24 14:03:06,865 - root - ✓ Validation loss improved! New best: 2.42863
+2025-11-24 14:03:42,882 - root - Training, epoch 3, loss 1.88021, lr 5.920037e-04.
+2025-11-24 14:03:44,747 - root - Valid, epoch 3, loss 1.91267.
+2025-11-24 14:03:44,748 - root - Best epoch: 003, saving model to ./results/early_stop/ct_dma_pos_bs32_lr0.0006/model.pt
+2025-11-24 14:03:45,388 - root - ✓ Validation loss improved! New best: 1.91267
+2025-11-24 14:04:21,313 - root - Training, epoch 4, loss 1.51604, lr 5.853830e-04.
+2025-11-24 14:04:23,002 - root - Valid, epoch 4, loss 1.73320.
+2025-11-24 14:04:23,003 - root - Best epoch: 004, saving model to ./results/early_stop/ct_dma_pos_bs32_lr0.0006/model.pt
+2025-11-24 14:04:23,584 - root - ✓ Validation loss improved! New best: 1.73320
+2025-11-24 14:04:59,089 - root - Training, epoch 5, loss 1.31384, lr 5.768425e-04.
+2025-11-24 14:05:00,739 - root - Valid, epoch 5, loss 1.61354.
+2025-11-24 14:05:00,740 - root - Best epoch: 005, saving model to ./results/early_stop/ct_dma_pos_bs32_lr0.0006/model.pt
+2025-11-24 14:05:01,331 - root - ✓ Validation loss improved! New best: 1.61354
+2025-11-24 14:05:37,281 - root - Training, epoch 6, loss 1.17134, lr 5.664395e-04.
+2025-11-24 14:05:38,911 - root - Valid, epoch 6, loss 1.50461.
+2025-11-24 14:05:38,912 - root - Best epoch: 006, saving model to ./results/early_stop/ct_dma_pos_bs32_lr0.0006/model.pt
+2025-11-24 14:05:39,509 - root - ✓ Validation loss improved! New best: 1.50461
+2025-11-24 14:06:15,630 - root - Training, epoch 7, loss 1.04319, lr 5.542441e-04.
+2025-11-24 14:06:17,381 - root - Valid, epoch 7, loss 1.48247.
+2025-11-24 14:06:17,382 - root - Best epoch: 007, saving model to ./results/early_stop/ct_dma_pos_bs32_lr0.0006/model.pt
+2025-11-24 14:06:18,034 - root - ✓ Validation loss improved! New best: 1.48247
+2025-11-24 14:06:54,190 - root - Training, epoch 8, loss 0.93806, lr 5.403383e-04.
+2025-11-24 14:06:55,817 - root - Valid, epoch 8, loss 1.42307.
+2025-11-24 14:06:55,818 - root - Best epoch: 008, saving model to ./results/early_stop/ct_dma_pos_bs32_lr0.0006/model.pt
+2025-11-24 14:06:56,426 - root - ✓ Validation loss improved! New best: 1.42307
+2025-11-24 14:07:32,208 - root - Training, epoch 9, loss 0.83473, lr 5.248156e-04.
+2025-11-24 14:07:33,842 - root - Valid, epoch 9, loss 1.40622.
+2025-11-24 14:07:33,843 - root - Best epoch: 009, saving model to ./results/early_stop/ct_dma_pos_bs32_lr0.0006/model.pt
+2025-11-24 14:07:34,432 - root - ✓ Validation loss improved! New best: 1.40622
+2025-11-24 14:08:10,297 - root - Training, epoch 10, loss 0.74118, lr 5.077806e-04.
+2025-11-24 14:08:12,047 - root - Valid, epoch 10, loss 1.39029.
+2025-11-24 14:08:12,048 - root - Best epoch: 010, saving model to ./results/early_stop/ct_dma_pos_bs32_lr0.0006/model.pt
+2025-11-24 14:08:12,637 - root - ✓ Validation loss improved! New best: 1.39029
+2025-11-24 14:08:48,190 - root - Training, epoch 11, loss 0.64832, lr 4.893477e-04.
+2025-11-24 14:08:49,918 - root - Valid, epoch 11, loss 1.37779.
+2025-11-24 14:08:49,919 - root - Best epoch: 011, saving model to ./results/early_stop/ct_dma_pos_bs32_lr0.0006/model.pt
+2025-11-24 14:08:50,511 - root - ✓ Validation loss improved! New best: 1.37779
+2025-11-24 14:09:27,079 - root - Training, epoch 12, loss 0.56259, lr 4.696411e-04.
+2025-11-24 14:09:29,272 - root - Valid, epoch 12, loss 1.37416.
+2025-11-24 14:09:29,273 - root - Best epoch: 012, saving model to ./results/early_stop/ct_dma_pos_bs32_lr0.0006/model.pt
+2025-11-24 14:09:29,859 - root - ✓ Validation loss improved! New best: 1.37416
+2025-11-24 14:10:06,746 - root - Training, epoch 13, loss 0.47569, lr 4.487932e-04.
+2025-11-24 14:10:08,381 - root - Valid, epoch 13, loss 1.40120.
+2025-11-24 14:10:08,382 - root - ⚠ No improvement for 1/10 epochs
+2025-11-24 14:10:42,626 - root - Training, epoch 14, loss 0.39289, lr 4.269443e-04.
+2025-11-24 14:10:44,466 - root - Valid, epoch 14, loss 1.39637.
+2025-11-24 14:10:44,467 - root - ⚠ No improvement for 2/10 epochs
+2025-11-24 14:11:18,515 - root - Training, epoch 15, loss 0.30852, lr 4.042414e-04.
+2025-11-24 14:11:20,537 - root - Valid, epoch 15, loss 1.41589.
+2025-11-24 14:11:20,538 - root - ⚠ No improvement for 3/10 epochs
+2025-11-24 14:11:54,496 - root - Training, epoch 16, loss 0.22655, lr 3.808373e-04.
+2025-11-24 14:11:56,139 - root - Valid, epoch 16, loss 1.44035.
+2025-11-24 14:11:56,140 - root - ⚠ No improvement for 4/10 epochs
+2025-11-24 14:12:30,018 - root - Training, epoch 17, loss 0.14303, lr 3.568893e-04.
+2025-11-24 14:12:31,664 - root - Valid, epoch 17, loss 1.47651.
+2025-11-24 14:12:31,664 - root - ⚠ No improvement for 5/10 epochs
+2025-11-24 14:13:05,770 - root - Training, epoch 18, loss 0.06326, lr 3.325586e-04.
+2025-11-24 14:13:07,415 - root - Valid, epoch 18, loss 1.52608.
+2025-11-24 14:13:07,421 - root - ⚠ No improvement for 6/10 epochs
+2025-11-24 14:13:41,901 - root - Training, epoch 19, loss -0.02273, lr 3.080089e-04.
+2025-11-24 14:13:43,572 - root - Valid, epoch 19, loss 1.55583.
+2025-11-24 14:13:43,573 - root - ⚠ No improvement for 7/10 epochs
+2025-11-24 14:14:17,961 - root - Training, epoch 20, loss -0.10602, lr 2.834053e-04.
+2025-11-24 14:14:19,622 - root - Valid, epoch 20, loss 1.61354.
+2025-11-24 14:14:19,626 - root - ⚠ No improvement for 8/10 epochs
+2025-11-24 14:14:53,687 - root - Training, epoch 21, loss -0.18539, lr 2.589134e-04.
+2025-11-24 14:14:55,621 - root - Valid, epoch 21, loss 1.65705.
+2025-11-24 14:14:55,622 - root - ⚠ No improvement for 9/10 epochs
+2025-11-24 14:15:28,887 - root - Training, epoch 22, loss -0.27126, lr 2.346978e-04.
+2025-11-24 14:15:30,524 - root - Valid, epoch 22, loss 1.71696.
+2025-11-24 14:15:30,525 - root - ⚠ No improvement for 10/10 epochs
+2025-11-24 14:15:30,525 - root - 🛑 Early stopping triggered! Best epoch was 12
+2025-11-24 14:15:30,707 - root - Last epoch: 022, saving model to ./results/early_stop/ct_dma_pos_bs32_lr0.0006/model.pt

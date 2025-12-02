@@ -1,0 +1,114 @@
+2025-11-24 14:39:57,334 - models - number of parameters: 5.742055e+07
+2025-11-24 14:42:01,912 - root - Training, epoch 1, loss 9.26685, lr 5.993205e-04.
+2025-11-24 14:42:07,453 - root - Valid, epoch 1, loss 4.46074.
+2025-11-24 14:42:07,453 - root - Best epoch: 001, saving model to ./results/data_aug/ct_dma_pos_bs32_lr0.0006/model.pt
+2025-11-24 14:44:44,523 - root - Training, epoch 2, loss 2.93637, lr 5.966600e-04.
+2025-11-24 14:44:52,177 - root - Valid, epoch 2, loss 2.42863.
+2025-11-24 14:44:52,178 - root - Best epoch: 002, saving model to ./results/data_aug/ct_dma_pos_bs32_lr0.0006/model.pt
+2025-11-24 14:47:29,153 - root - Training, epoch 3, loss 1.88021, lr 5.920037e-04.
+2025-11-24 14:47:37,151 - root - Valid, epoch 3, loss 1.91267.
+2025-11-24 14:47:37,152 - root - Best epoch: 003, saving model to ./results/data_aug/ct_dma_pos_bs32_lr0.0006/model.pt
+2025-11-24 14:50:14,652 - root - Training, epoch 4, loss 1.51604, lr 5.853830e-04.
+2025-11-24 14:50:22,454 - root - Valid, epoch 4, loss 1.73320.
+2025-11-24 14:50:22,455 - root - Best epoch: 004, saving model to ./results/data_aug/ct_dma_pos_bs32_lr0.0006/model.pt
+2025-11-24 14:53:00,898 - root - Training, epoch 5, loss 1.31384, lr 5.768425e-04.
+2025-11-24 14:53:08,407 - root - Valid, epoch 5, loss 1.61354.
+2025-11-24 14:53:08,408 - root - Best epoch: 005, saving model to ./results/data_aug/ct_dma_pos_bs32_lr0.0006/model.pt
+2025-11-24 14:56:32,423 - root - Training, epoch 6, loss 1.17134, lr 5.664395e-04.
+2025-11-24 14:56:42,605 - root - Valid, epoch 6, loss 1.50461.
+2025-11-24 14:56:42,606 - root - Best epoch: 006, saving model to ./results/data_aug/ct_dma_pos_bs32_lr0.0006/model.pt
+2025-11-24 15:00:27,731 - root - Training, epoch 7, loss 1.04319, lr 5.542441e-04.
+2025-11-24 15:00:38,595 - root - Valid, epoch 7, loss 1.48247.
+2025-11-24 15:00:38,596 - root - Best epoch: 007, saving model to ./results/data_aug/ct_dma_pos_bs32_lr0.0006/model.pt
+2025-11-24 15:04:32,289 - root - Training, epoch 8, loss 0.93806, lr 5.403383e-04.
+2025-11-24 15:04:44,270 - root - Valid, epoch 8, loss 1.42307.
+2025-11-24 15:04:44,271 - root - Best epoch: 008, saving model to ./results/data_aug/ct_dma_pos_bs32_lr0.0006/model.pt
+2025-11-24 15:09:00,034 - root - Training, epoch 9, loss 0.83473, lr 5.248156e-04.
+2025-11-24 15:09:11,898 - root - Valid, epoch 9, loss 1.40622.
+2025-11-24 15:09:11,898 - root - Best epoch: 009, saving model to ./results/data_aug/ct_dma_pos_bs32_lr0.0006/model.pt
+2025-11-24 15:13:26,034 - root - Training, epoch 10, loss 0.74118, lr 5.077806e-04.
+2025-11-24 15:13:36,493 - root - Valid, epoch 10, loss 1.39029.
+2025-11-24 15:13:36,494 - root - Best epoch: 010, saving model to ./results/data_aug/ct_dma_pos_bs32_lr0.0006/model.pt
+2025-11-24 15:17:10,092 - root - Training, epoch 11, loss 0.64832, lr 4.893477e-04.
+2025-11-24 15:17:18,881 - root - Valid, epoch 11, loss 1.37779.
+2025-11-24 15:17:18,882 - root - Best epoch: 011, saving model to ./results/data_aug/ct_dma_pos_bs32_lr0.0006/model.pt
+2025-11-24 15:21:01,887 - root - Training, epoch 12, loss 0.56259, lr 4.696411e-04.
+2025-11-24 15:21:12,948 - root - Valid, epoch 12, loss 1.37416.
+2025-11-24 15:21:12,949 - root - Best epoch: 012, saving model to ./results/data_aug/ct_dma_pos_bs32_lr0.0006/model.pt
+2025-11-24 15:25:07,991 - root - Training, epoch 13, loss 0.47569, lr 4.487932e-04.
+2025-11-24 15:25:17,925 - root - Valid, epoch 13, loss 1.40120.
+2025-11-24 15:28:45,377 - root - Training, epoch 14, loss 0.39289, lr 4.269443e-04.
+2025-11-24 15:28:55,198 - root - Valid, epoch 14, loss 1.39637.
+2025-11-24 15:32:22,080 - root - Training, epoch 15, loss 0.30852, lr 4.042414e-04.
+2025-11-24 15:32:32,131 - root - Valid, epoch 15, loss 1.41589.
+2025-11-24 15:35:59,197 - root - Training, epoch 16, loss 0.22655, lr 3.808373e-04.
+2025-11-24 15:36:09,214 - root - Valid, epoch 16, loss 1.44035.
+2025-11-24 15:39:36,534 - root - Training, epoch 17, loss 0.14303, lr 3.568893e-04.
+2025-11-24 15:39:46,429 - root - Valid, epoch 17, loss 1.47651.
+2025-11-24 15:42:32,670 - root - Training, epoch 18, loss 0.06326, lr 3.325586e-04.
+2025-11-24 15:42:40,647 - root - Valid, epoch 18, loss 1.52608.
+2025-11-24 15:45:15,770 - root - Training, epoch 19, loss -0.02273, lr 3.080089e-04.
+2025-11-24 15:45:22,867 - root - Valid, epoch 19, loss 1.55583.
+2025-11-24 15:47:56,597 - root - Training, epoch 20, loss -0.10602, lr 2.834053e-04.
+2025-11-24 15:48:05,569 - root - Valid, epoch 20, loss 1.61354.
+2025-11-24 15:51:18,675 - root - Training, epoch 21, loss -0.18539, lr 2.589134e-04.
+2025-11-24 15:51:28,107 - root - Valid, epoch 21, loss 1.65705.
+2025-11-24 15:54:51,570 - root - Training, epoch 22, loss -0.27126, lr 2.346978e-04.
+2025-11-24 15:55:01,131 - root - Valid, epoch 22, loss 1.71696.
+2025-11-24 15:57:49,418 - root - Training, epoch 23, loss -0.36223, lr 2.109216e-04.
+2025-11-24 15:57:57,410 - root - Valid, epoch 23, loss 1.76967.
+2025-11-24 16:00:48,003 - root - Training, epoch 24, loss -0.43990, lr 1.877446e-04.
+2025-11-24 16:00:56,066 - root - Valid, epoch 24, loss 1.85148.
+2025-11-24 16:03:46,213 - root - Training, epoch 25, loss -0.51515, lr 1.653228e-04.
+2025-11-24 16:03:53,956 - root - Valid, epoch 25, loss 1.90940.
+2025-11-24 16:06:46,533 - root - Training, epoch 26, loss -0.59145, lr 1.438071e-04.
+2025-11-24 16:06:54,967 - root - Valid, epoch 26, loss 1.97611.
+2025-11-24 16:09:44,498 - root - Training, epoch 27, loss -0.66723, lr 1.233420e-04.
+2025-11-24 16:09:52,143 - root - Valid, epoch 27, loss 2.07536.
+2025-11-24 16:12:39,561 - root - Training, epoch 28, loss -0.73953, lr 1.040655e-04.
+2025-11-24 16:12:47,683 - root - Valid, epoch 28, loss 2.15572.
+2025-11-24 16:15:40,734 - root - Training, epoch 29, loss -0.80704, lr 8.610701e-05.
+2025-11-24 16:15:48,658 - root - Valid, epoch 29, loss 2.22972.
+2025-11-24 16:18:43,822 - root - Training, epoch 30, loss -0.87249, lr 6.958748e-05.
+2025-11-24 16:18:51,803 - root - Valid, epoch 30, loss 2.30881.
+2025-11-24 16:21:47,273 - root - Training, epoch 31, loss -0.93321, lr 6.000000e-05.
+2025-11-24 16:21:55,340 - root - Valid, epoch 31, loss 2.39373.
+2025-11-24 16:24:37,625 - root - Training, epoch 32, loss -0.99562, lr 6.000000e-05.
+2025-11-24 16:24:45,027 - root - Valid, epoch 32, loss 2.48074.
+2025-11-24 16:27:22,686 - root - Training, epoch 33, loss -1.05415, lr 6.000000e-05.
+2025-11-24 16:27:29,862 - root - Valid, epoch 33, loss 2.57031.
+2025-11-24 16:30:06,127 - root - Training, epoch 34, loss -1.10803, lr 6.000000e-05.
+2025-11-24 16:30:13,992 - root - Valid, epoch 34, loss 2.65055.
+2025-11-24 16:32:49,546 - root - Training, epoch 35, loss -1.16110, lr 6.000000e-05.
+2025-11-24 16:32:57,393 - root - Valid, epoch 35, loss 2.73809.
+2025-11-24 16:35:35,100 - root - Training, epoch 36, loss -1.20336, lr 6.000000e-05.
+2025-11-24 16:35:42,271 - root - Valid, epoch 36, loss 2.82954.
+2025-11-24 16:38:04,004 - root - Training, epoch 37, loss -1.25370, lr 6.000000e-05.
+2025-11-24 16:38:11,191 - root - Valid, epoch 37, loss 2.91864.
+2025-11-24 16:40:34,068 - root - Training, epoch 38, loss -1.29878, lr 6.000000e-05.
+2025-11-24 16:40:40,688 - root - Valid, epoch 38, loss 3.01167.
+2025-11-24 16:43:03,972 - root - Training, epoch 39, loss -1.33236, lr 6.000000e-05.
+2025-11-24 16:43:11,102 - root - Valid, epoch 39, loss 3.07253.
+2025-11-24 16:45:32,809 - root - Training, epoch 40, loss -1.37562, lr 6.000000e-05.
+2025-11-24 16:45:39,453 - root - Valid, epoch 40, loss 3.18498.
+2025-11-24 16:48:02,143 - root - Training, epoch 41, loss -1.41400, lr 6.000000e-05.
+2025-11-24 16:48:08,841 - root - Valid, epoch 41, loss 3.25246.
+2025-11-24 16:50:30,863 - root - Training, epoch 42, loss -1.45242, lr 6.000000e-05.
+2025-11-24 16:50:38,028 - root - Valid, epoch 42, loss 3.32831.
+2025-11-24 16:52:59,403 - root - Training, epoch 43, loss -1.48482, lr 6.000000e-05.
+2025-11-24 16:53:06,534 - root - Valid, epoch 43, loss 3.40371.
+2025-11-24 16:55:29,905 - root - Training, epoch 44, loss -1.52061, lr 6.000000e-05.
+2025-11-24 16:55:36,641 - root - Valid, epoch 44, loss 3.47876.
+2025-11-24 16:57:50,502 - root - Training, epoch 45, loss -1.54724, lr 6.000000e-05.
+2025-11-24 16:57:56,251 - root - Valid, epoch 45, loss 3.55536.
+2025-11-24 17:00:00,876 - root - Training, epoch 46, loss -1.57745, lr 6.000000e-05.
+2025-11-24 17:00:07,188 - root - Valid, epoch 46, loss 3.63730.
+2025-11-24 17:02:12,905 - root - Training, epoch 47, loss -1.60385, lr 7.049302e-05.
+2025-11-24 17:02:19,255 - root - Valid, epoch 47, loss 3.70321.
+2025-11-24 17:04:25,026 - root - Training, epoch 48, loss -1.63060, lr 8.709808e-05.
+2025-11-24 17:04:31,298 - root - Valid, epoch 48, loss 3.77415.
+2025-11-24 17:06:37,021 - root - Training, epoch 49, loss -1.65783, lr 1.051354e-04.
+2025-11-24 17:06:43,131 - root - Valid, epoch 49, loss 3.84774.
+2025-11-24 17:08:02,936 - root - Training, epoch 50, loss -1.68099, lr 1.244836e-04.
+2025-11-24 17:08:06,345 - root - Valid, epoch 50, loss 3.90785.
+2025-11-24 17:08:09,196 - root - Last epoch: 050, saving model to ./results/data_aug/ct_dma_pos_bs32_lr0.0006/model.pt

@@ -1,0 +1,25 @@
+2025-11-29 07:58:05,123 - models - number of parameters: 7.840703e+07
+2025-11-29 08:00:57,151 - root - Training, epoch 1, loss 9.57926, lr 3.000000e-05.
+2025-11-29 08:01:31,482 - root - Valid, epoch 1, loss 3.30899.
+2025-11-29 08:01:31,486 - root - Best epoch: 001, saving model to ./results/best_combined/ct_dma_pos_bs32_lr0.0003/model.pt
+2025-11-29 08:01:32,034 - root - Validation loss improved! New best: 3.30899
+2025-11-29 08:04:44,057 - root - Training, epoch 2, loss 2.69329, lr 2.949868e-04.
+2025-11-29 08:05:19,535 - root - Valid, epoch 2, loss 1.62187.
+2025-11-29 08:05:19,538 - root - Best epoch: 002, saving model to ./results/best_combined/ct_dma_pos_bs32_lr0.0003/model.pt
+2025-11-29 08:05:20,191 - root - Validation loss improved! New best: 1.62187
+2025-11-29 08:08:39,804 - root - Training, epoch 3, loss 1.60094, lr 3.000000e-05.
+2025-11-29 08:09:15,287 - root - Valid, epoch 3, loss 1.12241.
+2025-11-29 08:09:15,289 - root - Best epoch: 003, saving model to ./results/best_combined/ct_dma_pos_bs32_lr0.0003/model.pt
+2025-11-29 08:09:15,880 - root - Validation loss improved! New best: 1.12241
+2025-11-29 08:12:25,027 - root - Training, epoch 4, loss 1.29047, lr 2.787515e-04.
+2025-11-29 08:12:59,334 - root - Valid, epoch 4, loss 1.11927.
+2025-11-29 08:12:59,342 - root - Best epoch: 004, saving model to ./results/best_combined/ct_dma_pos_bs32_lr0.0003/model.pt
+2025-11-29 08:12:59,873 - root - Validation loss improved! New best: 1.11927
+2025-11-29 08:15:59,896 - root - Training, epoch 5, loss 1.09970, lr 3.322406e-05.
+2025-11-29 08:16:35,206 - root - Valid, epoch 5, loss 0.88421.
+2025-11-29 08:16:35,208 - root - Best epoch: 005, saving model to ./results/best_combined/ct_dma_pos_bs32_lr0.0003/model.pt
+2025-11-29 08:16:35,807 - root - Validation loss improved! New best: 0.88421
+2025-11-29 08:19:48,516 - root - Training, epoch 6, loss 0.99244, lr 2.525234e-04.
+2025-11-29 08:20:23,934 - root - Valid, epoch 6, loss 0.95895.
+2025-11-29 08:20:23,939 - root - No improvement for 1/10 epochs
+2025-11-29 08:23:21,783 - root - Training, epoch 7, loss 0.87185, lr 6.372807e-05.

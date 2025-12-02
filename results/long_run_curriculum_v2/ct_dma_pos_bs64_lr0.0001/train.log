@@ -1,0 +1,300 @@
+2025-11-30 16:08:31,522 - models - number of parameters: 7.864403e+07
+2025-11-30 16:09:29,269 - root - Training, epoch 1, loss 11.36836, lr 1.000000e-05.
+2025-11-30 16:09:39,144 - root - Valid, epoch 1, loss 10.71731.
+2025-11-30 16:09:39,146 - root - Best epoch: 001, saving model to ./results/long_run_curriculum_v2/ct_dma_pos_bs64_lr0.0001/model.pt
+2025-11-30 16:09:42,302 - root - Validation loss improved! New best: 10.71731
+2025-11-30 16:10:41,281 - root - Training, epoch 2, loss 7.40767, lr 1.097180e-05.
+2025-11-30 16:10:51,168 - root - Valid, epoch 2, loss 12.76969.
+2025-11-30 16:10:51,169 - root - No improvement for 1/50 epochs
+2025-11-30 16:11:48,973 - root - Training, epoch 3, loss 6.66232, lr 5.172807e-05.
+2025-11-30 16:11:58,956 - root - Valid, epoch 3, loss 13.09539.
+2025-11-30 16:11:58,957 - root - No improvement for 2/50 epochs
+2025-11-30 16:12:56,778 - root - Training, epoch 4, loss 6.41800, lr 9.109402e-05.
+2025-11-30 16:13:06,828 - root - Valid, epoch 4, loss 13.31783.
+2025-11-30 16:13:06,829 - root - No improvement for 3/50 epochs
+2025-11-30 16:14:03,858 - root - Training, epoch 5, loss 6.29084, lr 9.739778e-05.
+2025-11-30 16:14:13,551 - root - Valid, epoch 5, loss 13.44144.
+2025-11-30 16:14:13,552 - root - No improvement for 4/50 epochs
+2025-11-30 16:15:10,491 - root - Training, epoch 6, loss 6.21753, lr 6.556766e-05.
+2025-11-30 16:15:20,476 - root - Valid, epoch 6, loss 13.49755.
+2025-11-30 16:15:20,477 - root - No improvement for 5/50 epochs
+2025-11-30 16:16:18,149 - root - Training, epoch 7, loss 6.16532, lr 2.121258e-05.
+2025-11-30 16:16:28,161 - root - Valid, epoch 7, loss 13.67314.
+2025-11-30 16:16:28,162 - root - No improvement for 6/50 epochs
+2025-11-30 16:17:24,698 - root - Training, epoch 8, loss 6.11889, lr 1.000000e-05.
+2025-11-30 16:17:34,685 - root - Valid, epoch 8, loss 13.82463.
+2025-11-30 16:17:34,686 - root - No improvement for 7/50 epochs
+2025-11-30 16:18:31,915 - root - Training, epoch 9, loss 6.07107, lr 1.903693e-05.
+2025-11-30 16:18:41,801 - root - Valid, epoch 9, loss 13.91354.
+2025-11-30 16:18:41,802 - root - No improvement for 8/50 epochs
+2025-11-30 16:19:38,738 - root - Training, epoch 10, loss 6.02378, lr 6.296678e-05.
+2025-11-30 16:19:48,655 - root - Valid, epoch 10, loss 14.00031.
+2025-11-30 16:19:48,656 - root - No improvement for 9/50 epochs
+2025-11-30 16:20:46,052 - root - Training, epoch 11, loss 5.98221, lr 9.646421e-05.
+2025-11-30 16:20:55,924 - root - Valid, epoch 11, loss 14.11958.
+2025-11-30 16:20:55,925 - root - No improvement for 10/50 epochs
+2025-11-30 16:21:53,269 - root - Training, epoch 12, loss 5.95536, lr 9.257886e-05.
+2025-11-30 16:22:03,046 - root - Valid, epoch 12, loss 14.12093.
+2025-11-30 16:22:03,046 - root - No improvement for 11/50 epochs
+2025-11-30 16:22:59,287 - root - Training, epoch 13, loss 5.94668, lr 5.443670e-05.
+2025-11-30 16:23:09,215 - root - Valid, epoch 13, loss 14.17818.
+2025-11-30 16:23:09,216 - root - No improvement for 12/50 epochs
+2025-11-30 16:24:06,669 - root - Training, epoch 14, loss 5.93652, lr 1.272499e-05.
+2025-11-30 16:24:16,708 - root - Valid, epoch 14, loss 14.19383.
+2025-11-30 16:24:16,709 - root - No improvement for 13/50 epochs
+2025-11-30 16:25:14,381 - root - Training, epoch 15, loss 5.91129, lr 1.000000e-05.
+2025-11-30 16:25:24,360 - root - Valid, epoch 15, loss 14.26908.
+2025-11-30 16:25:24,361 - root - No improvement for 14/50 epochs
+2025-11-30 16:26:29,169 - root - Training, epoch 16, loss 5.88541, lr 2.870141e-05.
+2025-11-30 16:26:39,247 - root - Valid, epoch 16, loss 14.34625.
+2025-11-30 16:26:39,248 - root - No improvement for 15/50 epochs
+2025-11-30 16:27:38,014 - root - Training, epoch 17, loss 5.85626, lr 7.353571e-05.
+2025-11-30 16:27:46,833 - root - Valid, epoch 17, loss 14.38672.
+2025-11-30 16:27:46,833 - root - No improvement for 16/50 epochs
+2025-11-30 16:28:44,001 - root - Training, epoch 18, loss 5.83235, lr 9.943436e-05.
+2025-11-30 16:28:54,033 - root - Valid, epoch 18, loss 14.49705.
+2025-11-30 16:28:54,034 - root - No improvement for 17/50 epochs
+2025-11-30 16:29:51,109 - root - Training, epoch 19, loss 5.82008, lr 8.556060e-05.
+2025-11-30 16:30:00,970 - root - Valid, epoch 19, loss 14.39495.
+2025-11-30 16:30:00,971 - root - No improvement for 18/50 epochs
+2025-11-30 16:30:58,150 - root - Training, epoch 20, loss 5.82184, lr 4.307657e-05.
+2025-11-30 16:31:08,074 - root - Valid, epoch 20, loss 14.42162.
+2025-11-30 16:31:08,075 - root - No improvement for 19/50 epochs
+2025-11-30 16:32:05,368 - root - Training, epoch 21, loss 5.81048, lr 1.000000e-05.
+2025-11-30 16:32:15,362 - root - Valid, epoch 21, loss 14.51287.
+2025-11-30 16:32:15,363 - root - No improvement for 20/50 epochs
+2025-11-30 16:33:25,711 - root - Training, epoch 22, loss 6.25308, lr 2.736709e-05.
+2025-11-30 16:33:25,713 - root - Curriculum advanced (seqlen 42 -> 54). Resetting early stopping patience.
+2025-11-30 16:33:35,847 - root - Valid, epoch 22, loss 10.40721.
+2025-11-30 16:33:35,848 - root - Best epoch: 022, saving model to ./results/long_run_curriculum_v2/ct_dma_pos_bs64_lr0.0001/model.pt
+2025-11-30 16:33:38,971 - root - Validation loss improved! New best: 10.40721
+2025-11-30 16:34:49,625 - root - Training, epoch 23, loss 5.89571, lr 5.646003e-05.
+2025-11-30 16:34:59,550 - root - Valid, epoch 23, loss 10.14097.
+2025-11-30 16:34:59,551 - root - Best epoch: 023, saving model to ./results/long_run_curriculum_v2/ct_dma_pos_bs64_lr0.0001/model.pt
+2025-11-30 16:35:02,695 - root - Validation loss improved! New best: 10.14097
+2025-11-30 16:36:13,316 - root - Training, epoch 24, loss 5.80917, lr 8.330134e-05.
+2025-11-30 16:36:23,234 - root - Valid, epoch 24, loss 11.13061.
+2025-11-30 16:36:23,235 - root - No improvement for 1/50 epochs
+2025-11-30 16:37:33,402 - root - Training, epoch 25, loss 5.78155, lr 9.853569e-05.
+2025-11-30 16:37:43,053 - root - Valid, epoch 25, loss 11.55444.
+2025-11-30 16:37:43,054 - root - No improvement for 2/50 epochs
+2025-11-30 16:38:52,992 - root - Training, epoch 26, loss 5.76248, lr 9.685294e-05.
+2025-11-30 16:39:02,900 - root - Valid, epoch 26, loss 11.55152.
+2025-11-30 16:39:02,901 - root - No improvement for 3/50 epochs
+2025-11-30 16:40:13,215 - root - Training, epoch 27, loss 5.74409, lr 7.884019e-05.
+2025-11-30 16:40:23,171 - root - Valid, epoch 27, loss 11.77286.
+2025-11-30 16:40:23,172 - root - No improvement for 4/50 epochs
+2025-11-30 16:41:33,180 - root - Training, epoch 28, loss 5.72545, lr 5.077476e-05.
+2025-11-30 16:41:43,149 - root - Valid, epoch 28, loss 11.75393.
+2025-11-30 16:41:43,149 - root - No improvement for 5/50 epochs
+2025-11-30 16:42:52,960 - root - Training, epoch 29, loss 5.70549, lr 2.243929e-05.
+2025-11-30 16:43:02,865 - root - Valid, epoch 29, loss 11.77229.
+2025-11-30 16:43:02,866 - root - No improvement for 6/50 epochs
+2025-11-30 16:44:13,194 - root - Training, epoch 30, loss 5.69218, lr 1.000000e-05.
+2025-11-30 16:44:23,185 - root - Valid, epoch 30, loss 11.80629.
+2025-11-30 16:44:23,186 - root - No improvement for 7/50 epochs
+2025-11-30 16:45:32,998 - root - Training, epoch 31, loss 5.67752, lr 1.000000e-05.
+2025-11-30 16:45:42,619 - root - Valid, epoch 31, loss 11.83352.
+2025-11-30 16:45:42,620 - root - No improvement for 8/50 epochs
+2025-11-30 16:46:52,437 - root - Training, epoch 32, loss 5.66733, lr 1.555896e-05.
+2025-11-30 16:47:02,312 - root - Valid, epoch 32, loss 11.84262.
+2025-11-30 16:47:02,313 - root - No improvement for 9/50 epochs
+2025-11-30 16:48:12,594 - root - Training, epoch 33, loss 5.65509, lr 4.200711e-05.
+2025-11-30 16:48:22,593 - root - Valid, epoch 33, loss 11.84128.
+2025-11-30 16:48:22,594 - root - No improvement for 10/50 epochs
+2025-11-30 16:49:32,730 - root - Training, epoch 34, loss 5.64347, lr 7.124052e-05.
+2025-11-30 16:49:42,626 - root - Valid, epoch 34, loss 11.80355.
+2025-11-30 16:49:42,627 - root - No improvement for 11/50 epochs
+2025-11-30 16:50:52,717 - root - Training, epoch 35, loss 5.63112, lr 9.307081e-05.
+2025-11-30 16:51:02,731 - root - Valid, epoch 35, loss 11.75556.
+2025-11-30 16:51:02,732 - root - No improvement for 12/50 epochs
+2025-11-30 16:52:13,063 - root - Training, epoch 36, loss 5.61547, lr 9.988925e-05.
+2025-11-30 16:52:22,928 - root - Valid, epoch 36, loss 11.84986.
+2025-11-30 16:52:22,929 - root - No improvement for 13/50 epochs
+2025-11-30 16:53:32,611 - root - Training, epoch 37, loss 5.60299, lr 8.931854e-05.
+2025-11-30 16:53:42,281 - root - Valid, epoch 37, loss 11.89461.
+2025-11-30 16:53:42,282 - root - No improvement for 14/50 epochs
+2025-11-30 16:54:48,573 - root - Training, epoch 38, loss 5.58976, lr 6.504389e-05.
+2025-11-30 16:54:57,768 - root - Valid, epoch 38, loss 11.92646.
+2025-11-30 16:54:57,769 - root - No improvement for 15/50 epochs
+2025-11-30 16:56:07,788 - root - Training, epoch 39, loss 5.57426, lr 3.552589e-05.
+2025-11-30 16:56:17,707 - root - Valid, epoch 39, loss 11.92480.
+2025-11-30 16:56:17,708 - root - No improvement for 16/50 epochs
+2025-11-30 16:57:28,375 - root - Training, epoch 40, loss 5.55628, lr 1.105216e-05.
+2025-11-30 16:57:38,268 - root - Valid, epoch 40, loss 11.91941.
+2025-11-30 16:57:38,269 - root - No improvement for 17/50 epochs
+2025-11-30 16:58:48,023 - root - Training, epoch 41, loss 5.54271, lr 1.000000e-05.
+2025-11-30 16:58:58,040 - root - Valid, epoch 41, loss 11.93803.
+2025-11-30 16:58:58,041 - root - No improvement for 18/50 epochs
+2025-11-30 17:01:23,030 - root - Training, epoch 42, loss 6.86756, lr 9.406908e-05.
+2025-11-30 17:01:23,032 - root - Curriculum advanced (seqlen 54 -> 120). Resetting early stopping patience.
+2025-11-30 17:01:32,753 - root - Valid, epoch 42, loss 5.10127.
+2025-11-30 17:01:32,754 - root - Best epoch: 042, saving model to ./results/long_run_curriculum_v2/ct_dma_pos_bs64_lr0.0001/model.pt
+2025-11-30 17:01:35,918 - root - Validation loss improved! New best: 5.10127
+2025-11-30 17:04:00,259 - root - Training, epoch 43, loss 5.78927, lr 1.913750e-05.
+2025-11-30 17:04:10,312 - root - Valid, epoch 43, loss 5.01557.
+2025-11-30 17:04:10,313 - root - Best epoch: 043, saving model to ./results/long_run_curriculum_v2/ct_dma_pos_bs64_lr0.0001/model.pt
+2025-11-30 17:04:13,478 - root - Validation loss improved! New best: 5.01557
+2025-11-30 17:06:38,710 - root - Training, epoch 44, loss 5.70770, lr 6.245284e-05.
+2025-11-30 17:06:48,710 - root - Valid, epoch 44, loss 4.98138.
+2025-11-30 17:06:48,711 - root - Best epoch: 044, saving model to ./results/long_run_curriculum_v2/ct_dma_pos_bs64_lr0.0001/model.pt
+2025-11-30 17:06:51,788 - root - Validation loss improved! New best: 4.98138
+2025-11-30 17:08:47,892 - root - Training, epoch 45, loss 5.67486, lr 5.805623e-05.
+2025-11-30 17:08:53,362 - root - Valid, epoch 45, loss 5.02138.
+2025-11-30 17:08:53,363 - root - No improvement for 1/50 epochs
+2025-11-30 17:10:11,379 - root - Training, epoch 46, loss 5.64145, lr 2.279289e-05.
+2025-11-30 17:10:16,924 - root - Valid, epoch 46, loss 4.97063.
+2025-11-30 17:10:16,925 - root - Best epoch: 046, saving model to ./results/long_run_curriculum_v2/ct_dma_pos_bs64_lr0.0001/model.pt
+2025-11-30 17:10:20,082 - root - Validation loss improved! New best: 4.97063
+2025-11-30 17:12:32,386 - root - Training, epoch 47, loss 5.62275, lr 9.177117e-05.
+2025-11-30 17:12:42,383 - root - Valid, epoch 47, loss 5.03164.
+2025-11-30 17:12:42,384 - root - No improvement for 1/50 epochs
+2025-11-30 17:15:09,000 - root - Training, epoch 48, loss 5.60111, lr 1.000000e-05.
+2025-11-30 17:15:18,973 - root - Valid, epoch 48, loss 4.99085.
+2025-11-30 17:15:18,975 - root - No improvement for 2/50 epochs
+2025-11-30 17:17:45,143 - root - Training, epoch 49, loss 5.57982, lr 9.850469e-05.
+2025-11-30 17:17:55,134 - root - Valid, epoch 49, loss 5.03123.
+2025-11-30 17:17:55,135 - root - No improvement for 3/50 epochs
+2025-11-30 17:20:21,281 - root - Training, epoch 50, loss 5.56802, lr 1.046104e-05.
+2025-11-30 17:20:31,130 - root - Valid, epoch 50, loss 5.01276.
+2025-11-30 17:20:31,131 - root - No improvement for 4/50 epochs
+2025-11-30 17:22:53,348 - root - Training, epoch 51, loss 5.54331, lr 7.390739e-05.
+2025-11-30 17:23:03,021 - root - Valid, epoch 51, loss 5.01410.
+2025-11-30 17:23:03,022 - root - No improvement for 5/50 epochs
+2025-11-30 17:25:29,269 - root - Training, epoch 52, loss 5.53087, lr 4.575471e-05.
+2025-11-30 17:25:39,248 - root - Valid, epoch 52, loss 5.02106.
+2025-11-30 17:25:39,249 - root - No improvement for 6/50 epochs
+2025-11-30 17:28:05,749 - root - Training, epoch 53, loss 5.50907, lr 3.386749e-05.
+2025-11-30 17:28:15,824 - root - Valid, epoch 53, loss 5.00696.
+2025-11-30 17:28:15,825 - root - No improvement for 7/50 epochs
+2025-11-30 17:30:41,650 - root - Training, epoch 54, loss 5.49317, lr 8.379055e-05.
+2025-11-30 17:30:51,652 - root - Valid, epoch 54, loss 5.08039.
+2025-11-30 17:30:51,653 - root - No improvement for 8/50 epochs
+2025-11-30 17:33:17,729 - root - Training, epoch 55, loss 5.47374, lr 1.000000e-05.
+2025-11-30 17:33:27,741 - root - Valid, epoch 55, loss 5.03764.
+2025-11-30 17:33:27,742 - root - No improvement for 9/50 epochs
+2025-11-30 17:35:53,017 - root - Training, epoch 56, loss 5.45517, lr 9.999993e-05.
+2025-11-30 17:36:02,820 - root - Valid, epoch 56, loss 5.09675.
+2025-11-30 17:36:02,821 - root - No improvement for 10/50 epochs
+2025-11-30 17:38:28,361 - root - Training, epoch 57, loss 5.44206, lr 1.000000e-05.
+2025-11-30 17:38:38,382 - root - Valid, epoch 57, loss 5.07511.
+2025-11-30 17:38:38,383 - root - No improvement for 11/50 epochs
+2025-11-30 17:41:04,714 - root - Training, epoch 58, loss 5.41898, lr 8.391266e-05.
+2025-11-30 17:41:14,836 - root - Valid, epoch 58, loss 5.10286.
+2025-11-30 17:41:14,838 - root - No improvement for 12/50 epochs
+2025-11-30 17:43:40,960 - root - Training, epoch 59, loss 5.40840, lr 3.371053e-05.
+2025-11-30 17:43:51,083 - root - Valid, epoch 59, loss 5.11940.
+2025-11-30 17:43:51,085 - root - No improvement for 13/50 epochs
+2025-11-30 17:46:17,648 - root - Training, epoch 60, loss 5.38471, lr 4.591849e-05.
+2025-11-30 17:46:27,761 - root - Valid, epoch 60, loss 5.10681.
+2025-11-30 17:46:27,762 - root - No improvement for 14/50 epochs
+2025-11-30 17:48:51,678 - root - Training, epoch 61, loss 5.37371, lr 7.376153e-05.
+2025-11-30 17:48:59,780 - root - Valid, epoch 61, loss 5.16699.
+2025-11-30 17:48:59,781 - root - No improvement for 15/50 epochs
+2025-11-30 17:51:25,063 - root - Training, epoch 62, loss 5.35339, lr 1.056186e-05.
+2025-11-30 17:51:35,121 - root - Valid, epoch 62, loss 5.13022.
+2025-11-30 17:51:35,122 - root - No improvement for 16/50 epochs
+2025-11-30 17:54:01,394 - root - Training, epoch 63, loss 5.33626, lr 9.846415e-05.
+2025-11-30 17:54:11,542 - root - Valid, epoch 63, loss 5.18993.
+2025-11-30 17:54:11,543 - root - No improvement for 17/50 epochs
+2025-11-30 17:56:37,556 - root - Training, epoch 64, loss 5.32226, lr 1.000000e-05.
+2025-11-30 17:56:47,639 - root - Valid, epoch 64, loss 5.18165.
+2025-11-30 17:56:47,640 - root - No improvement for 18/50 epochs
+2025-11-30 17:59:13,832 - root - Training, epoch 65, loss 5.29767, lr 9.186213e-05.
+2025-11-30 17:59:23,836 - root - Valid, epoch 65, loss 5.21530.
+2025-11-30 17:59:23,837 - root - No improvement for 19/50 epochs
+2025-11-30 18:01:49,867 - root - Training, epoch 66, loss 5.29010, lr 2.265514e-05.
+2025-11-30 18:01:59,764 - root - Valid, epoch 66, loss 5.22264.
+2025-11-30 18:01:59,765 - root - No improvement for 20/50 epochs
+2025-11-30 18:04:25,386 - root - Training, epoch 67, loss 5.26608, lr 5.821994e-05.
+2025-11-30 18:04:35,495 - root - Valid, epoch 67, loss 5.21946.
+2025-11-30 18:04:35,496 - root - No improvement for 21/50 epochs
+2025-11-30 18:07:01,687 - root - Training, epoch 68, loss 5.25637, lr 6.229360e-05.
+2025-11-30 18:07:11,802 - root - Valid, epoch 68, loss 5.28983.
+2025-11-30 18:07:11,803 - root - No improvement for 22/50 epochs
+2025-11-30 18:09:37,843 - root - Training, epoch 69, loss 5.23278, lr 1.926821e-05.
+2025-11-30 18:09:47,952 - root - Valid, epoch 69, loss 5.25948.
+2025-11-30 18:09:47,953 - root - No improvement for 23/50 epochs
+2025-11-30 18:12:14,257 - root - Training, epoch 70, loss 5.22009, lr 9.399120e-05.
+2025-11-30 18:12:24,372 - root - Valid, epoch 70, loss 5.33417.
+2025-11-30 18:12:24,373 - root - No improvement for 24/50 epochs
+2025-11-30 18:14:50,543 - root - Training, epoch 71, loss 5.20306, lr 1.000000e-05.
+2025-11-30 18:15:00,517 - root - Valid, epoch 71, loss 5.31000.
+2025-11-30 18:15:00,518 - root - No improvement for 25/50 epochs
+2025-11-30 18:17:22,239 - root - Training, epoch 72, loss 5.18171, lr 9.727339e-05.
+2025-11-30 18:17:32,342 - root - Valid, epoch 72, loss 5.34372.
+2025-11-30 18:17:32,343 - root - No improvement for 26/50 epochs
+2025-11-30 18:19:58,368 - root - Training, epoch 73, loss 5.17207, lr 1.325487e-05.
+2025-11-30 18:20:08,446 - root - Valid, epoch 73, loss 5.36772.
+2025-11-30 18:20:08,447 - root - No improvement for 27/50 epochs
+2025-11-30 18:22:34,760 - root - Training, epoch 74, loss 5.14681, lr 7.002010e-05.
+2025-11-30 18:22:44,886 - root - Valid, epoch 74, loss 5.36919.
+2025-11-30 18:22:44,887 - root - No improvement for 28/50 epochs
+2025-11-30 18:25:11,997 - root - Training, epoch 75, loss 5.13765, lr 5.007748e-05.
+2025-11-30 18:25:22,067 - root - Valid, epoch 75, loss 5.42044.
+2025-11-30 18:25:22,068 - root - No improvement for 29/50 epochs
+2025-11-30 18:27:48,247 - root - Training, epoch 76, loss 5.11277, lr 2.983514e-05.
+2025-11-30 18:27:58,145 - root - Valid, epoch 76, loss 5.40602.
+2025-11-30 18:27:58,146 - root - No improvement for 30/50 epochs
+2025-11-30 18:30:27,098 - root - Training, epoch 77, loss 5.10060, lr 8.685004e-05.
+2025-11-30 18:30:37,193 - root - Valid, epoch 77, loss 5.48948.
+2025-11-30 18:30:37,195 - root - No improvement for 31/50 epochs
+2025-11-30 18:33:03,525 - root - Training, epoch 78, loss 5.08611, lr 1.000000e-05.
+2025-11-30 18:33:14,818 - root - Valid, epoch 78, loss 5.46286.
+2025-11-30 18:33:14,819 - root - No improvement for 32/50 epochs
+2025-11-30 18:35:40,729 - root - Training, epoch 79, loss 5.06378, lr 9.981991e-05.
+2025-11-30 18:35:50,778 - root - Valid, epoch 79, loss 5.52671.
+2025-11-30 18:35:50,779 - root - No improvement for 33/50 epochs
+2025-11-30 18:38:16,731 - root - Training, epoch 80, loss 5.05327, lr 1.000000e-05.
+2025-11-30 18:38:26,725 - root - Valid, epoch 80, loss 5.52622.
+2025-11-30 18:38:26,726 - root - No improvement for 34/50 epochs
+2025-11-30 18:40:52,667 - root - Training, epoch 81, loss 5.03088, lr 8.060941e-05.
+2025-11-30 18:41:02,464 - root - Valid, epoch 81, loss 5.54431.
+2025-11-30 18:41:02,465 - root - No improvement for 35/50 epochs
+2025-11-30 18:43:27,852 - root - Training, epoch 82, loss 5.02193, lr 3.785970e-05.
+2025-11-30 18:43:36,988 - root - Valid, epoch 82, loss 5.58156.
+2025-11-30 18:43:36,989 - root - No improvement for 36/50 epochs
+2025-11-30 18:46:00,458 - root - Training, epoch 83, loss 4.99539, lr 4.162725e-05.
+2025-11-30 18:46:10,385 - root - Valid, epoch 83, loss 5.57905.
+2025-11-30 18:46:10,386 - root - No improvement for 37/50 epochs
+2025-11-30 18:48:36,904 - root - Training, epoch 84, loss 4.99006, lr 7.747707e-05.
+2025-11-30 18:48:46,896 - root - Valid, epoch 84, loss 5.65174.
+2025-11-30 18:48:46,898 - root - No improvement for 38/50 epochs
+2025-11-30 18:51:13,082 - root - Training, epoch 85, loss 4.97055, lr 1.000000e-05.
+2025-11-30 18:51:23,091 - root - Valid, epoch 85, loss 5.62326.
+2025-11-30 18:51:23,092 - root - No improvement for 39/50 epochs
+2025-11-30 18:53:49,177 - root - Training, epoch 86, loss 4.95244, lr 9.934607e-05.
+2025-11-30 18:53:59,094 - root - Valid, epoch 86, loss 5.71223.
+2025-11-30 18:53:59,095 - root - No improvement for 40/50 epochs
+2025-11-30 18:56:24,553 - root - Training, epoch 87, loss 4.94101, lr 1.000000e-05.
+2025-11-30 18:56:34,555 - root - Valid, epoch 87, loss 5.68558.
+2025-11-30 18:56:34,556 - root - No improvement for 41/50 epochs
+2025-11-30 18:59:00,795 - root - Training, epoch 88, loss 4.92175, lr 8.934077e-05.
+2025-11-30 18:59:10,819 - root - Valid, epoch 88, loss 5.73327.
+2025-11-30 18:59:10,820 - root - No improvement for 42/50 epochs
+2025-11-30 19:01:37,104 - root - Training, epoch 89, loss 4.91275, lr 2.637492e-05.
+2025-11-30 19:01:47,201 - root - Valid, epoch 89, loss 5.75824.
+2025-11-30 19:01:47,202 - root - No improvement for 43/50 epochs
+2025-11-30 19:04:13,309 - root - Training, epoch 90, loss 4.88746, lr 5.392393e-05.
+2025-11-30 19:04:23,279 - root - Valid, epoch 90, loss 5.76159.
+2025-11-30 19:04:23,280 - root - No improvement for 44/50 epochs
+2025-11-30 19:06:49,004 - root - Training, epoch 91, loss 4.87922, lr 6.643589e-05.
+2025-11-30 19:06:58,888 - root - Valid, epoch 91, loss 5.82618.
+2025-11-30 19:06:58,889 - root - No improvement for 45/50 epochs
+2025-11-30 19:09:24,611 - root - Training, epoch 92, loss 4.86096, lr 1.597249e-05.
+2025-11-30 19:09:34,663 - root - Valid, epoch 92, loss 5.80428.
+2025-11-30 19:09:34,664 - root - No improvement for 46/50 epochs
+2025-11-30 19:11:56,836 - root - Training, epoch 93, loss 4.84734, lr 9.588036e-05.
+2025-11-30 19:12:06,841 - root - Valid, epoch 93, loss 5.87479.
+2025-11-30 19:12:06,842 - root - No improvement for 47/50 epochs
+2025-11-30 19:14:33,068 - root - Training, epoch 94, loss 4.83707, lr 1.000000e-05.
+2025-11-30 19:14:43,195 - root - Valid, epoch 94, loss 5.86043.
+2025-11-30 19:14:43,196 - root - No improvement for 48/50 epochs
+2025-11-30 19:17:58,949 - root - Training, epoch 95, loss 4.81589, lr 9.568915e-05.
+2025-11-30 19:18:13,334 - root - Valid, epoch 95, loss 5.94777.
+2025-11-30 19:18:13,335 - root - No improvement for 49/50 epochs
+2025-11-30 19:21:42,131 - root - Training, epoch 96, loss 4.81168, lr 1.632498e-05.
+2025-11-30 19:21:56,175 - root - Valid, epoch 96, loss 5.92331.
+2025-11-30 19:21:56,176 - root - No improvement for 50/50 epochs
+2025-11-30 19:21:56,176 - root - Early stopping triggered! Best epoch was 46
+2025-11-30 19:21:56,406 - root - Last epoch: 096, saving model to ./results/long_run_curriculum_v2/ct_dma_pos_bs64_lr0.0001/model.pt
